@@ -34,6 +34,8 @@ html {
   position: relative;
   min-height: 100%;
   background: #253138;
+ /* background-image: url("../images/gallery/11.jpg");
+  background-repeat: no-repeat;*/
 }
 h1,
 h2,
@@ -349,6 +351,7 @@ hr {
   background-clip: padding-box;
   margin-bottom: 20px;
   background-color: rgba(24, 186, 222, 0.3);
+  background-image: url("../images/big/bg1.jpg");
 }
 .card-box .card-drop {
   color: #98a6ad;
@@ -573,7 +576,7 @@ blockquote small {
   color: #ff5b5b !important;
 }
 .text-muted {
-  color: #98a6ad !important;
+  color: #0a3c6b !important;
 }
 .text-primary {
   color: #188ae2 !important;
