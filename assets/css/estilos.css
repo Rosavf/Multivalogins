@@ -1,20 +1,7 @@
-* {
 
-margin: 0;
-padding: 0;
-
-
-
-}
-
- body{
-
- }
 
 #wrapper{
 box-shadow: 0 0 12px rgba(0 0, 0, 0.8);
-margin: 0 auto;
-max-width: 1600px;
 width: 100% !important;
 
 
